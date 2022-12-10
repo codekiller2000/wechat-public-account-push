@@ -68,7 +68,7 @@ const USER_CONFIG = {
   
     /** 学生课表 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    courseSchedule: ,
+   
   },
   
   TIAN_API: {
@@ -99,7 +99,7 @@ const USER_CONFIG = {
   /** 每日一言 */
   // 每日一言的内容类型
   // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-  LITERARY_PREFERENCE: '',
+  LITERARY_PREFERENCE: '原创',
   
 
   /**
