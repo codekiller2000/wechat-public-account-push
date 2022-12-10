@@ -73,7 +73,7 @@ const USER_CONFIG = {
   
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
-    key: '',
+    key: '9551832db64d311cd3f9a80aa2a79cf9',
     
     /** 天行API相关，需要config中配置 TIAN_API_KEY  */
     // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -354,9 +354,9 @@ const USER_CONFIG = {
    * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    { keyword: 'love_day', date: '2022-09-08' },
+    { keyword: 'love_day', date: '2020-11-04' },
     // 结婚纪念日
-    { keyword: 'marry_day', date: '2022-09-09' },
+    { keyword: 'marry_day', date: '2001-01-02' },
     // 退伍日
     { keyword: 'ex_day', date: '2022-09-10' }
     // 你可以不断按格式往下增加
