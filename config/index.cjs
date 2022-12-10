@@ -68,7 +68,7 @@ const USER_CONFIG = {
   
     /** 学生课表 */
     // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-   
+    courseSchedule: true,
   },
   
   TIAN_API: {
@@ -108,7 +108,7 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '老婆0',
+      name: '小安宁',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
       id: 'o64ua5nrAzm3dlKiXKyWOijnHWIk',
